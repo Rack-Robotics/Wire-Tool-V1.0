@@ -7,10 +7,12 @@ This project is open-source, to encourage collaboration and innovation within th
 Documentation can be found [here](https://rack-robotics.github.io/docs/)
 
 ## Wire Tool V1.0 Specifications 
-
-## FAQ
-
-## Best Practices
+- corrosion-resistant type III anodized aluminum endoskeleton
+- integrated port for dielectric flushing
+- 32 mm wire span
+- 100 mm maximum cut depth
+- open-loop velocity control 
+- manual adjustment for wire tension
 
 ## Safety 
 
@@ -23,3 +25,14 @@ The Wire Tool V2.0 is intended to be used in combination with the Powercore V2.0
 Want to chat? Please join our [discord](https://discord.gg/z4XNk7Hkgw). 
 
 ## Legal & License
+
+This project is licensed under the GNU General Public License v3.0. You are free to use, modify, and distribute this software under the terms of the GPL 3.0. For more information, see the [LICENSE](LICENSE) file.
+
+### Summary of the GPL 3.0 License
+
+- You can use, modify, and distribute the software as long as you follow the terms of the GPL 3.0.
+- Any modifications or derivative works you distribute must also be licensed under the GPL 3.0.
+- You must include the original license text and a notice indicating any changes you have made.
+- The full text of the GPL 3.0 license can be found in the [LICENSE](LICENSE) file.
+
+For more information about the GPL 3.0, please visit the [GNU website](https://www.gnu.org/licenses/gpl-3.0.html).
